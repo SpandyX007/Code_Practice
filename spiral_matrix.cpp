@@ -11,6 +11,7 @@ class Solution {
                 //top
                 for(int i=scol;i<=ecol;i++)
                     answer.push_back(matrix[srow][i]);
+
                 //right
                 for(int i=srow+1; i<=erow; i++)
                     answer.push_back(matrix[i][ecol]);
