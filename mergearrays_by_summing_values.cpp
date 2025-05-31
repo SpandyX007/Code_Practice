@@ -39,3 +39,5 @@ public:
         return ans;
     }
 };
+
+//try this with hashmap
