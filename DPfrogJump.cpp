@@ -1,4 +1,4 @@
-// Reecurssive Approach
+// Recurssive Approach
 
 class Solution {
   public:
